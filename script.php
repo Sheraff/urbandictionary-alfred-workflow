@@ -39,7 +39,8 @@ foreach ($results as $result) {
 		$result->word,
 		$result->definition,
 		'icon.png',
-		'yes' );
+		'yes',
+		$result->word );
 }
 echo $w->toxml();
 

@@ -1,4 +1,4 @@
-urbandictionary-alfred-workflow, [download link](https://github.com/Sheraff/urbandictionary-alfred-workflow/blob/master/Urban%20Dictionary.alfredworkflow?raw=true "Urban Dictionary.alfredworkflow")
+Urban Dictionary workflow, [download link](https://github.com/Sheraff/urbandictionary-alfred-workflow/blob/master/Urban%20Dictionary.alfredworkflow?raw=true "Urban Dictionary.alfredworkflow")
 ===============================
 
 ## summary
