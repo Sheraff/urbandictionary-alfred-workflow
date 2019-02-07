@@ -9,7 +9,7 @@ $results = $w->request("http://api.urbandictionary.com/v0/define?term=".urlencod
 $results = json_decode($results);
 
 //no result case, outputting like Alfred's "define"
-if($results->result_type!="exact"){
+if(count($results->list)==0){
 	$w->result(
 		"ud".$query,
 		"http://www.urbandictionary.com/define.php?term=".urlencode($query),
