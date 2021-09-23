@@ -1,6 +1,10 @@
 Urban Dictionary workflow, [download link](https://github.com/Sheraff/urbandictionary-alfred-workflow/blob/master/Urban%20Dictionary.alfredworkflow?raw=true "Urban Dictionary.alfredworkflow")
 ===============================
 
+⚠️ I do not maintain nor use this workflow anymore, I recommend the following alternative: https://github.com/xilopaint/alfred-urban-dictionary ⚠️
+
+---------------------------
+
 ## summary
 This is a workflow for [Alfred App](http://www.alfredapp.com/ "Alfred App official website") (Mac OSX) to query [urban dictionary](http://www.urbandictionary.com/)’s API and return definitions.
 ![screen shot](https://github.com/Sheraff/urbandictionary-alfred-workflow/raw/master/screenshot.png)
